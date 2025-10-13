@@ -2,7 +2,9 @@
 
 Official implementation of "SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs" (COLM 2025)
 
-![Dynamic SAE Guardrails Overview](figures/SAE_plot.png)
+<p align="center">
+  <img src="figures/SAE_plot.png" alt="Dynamic SAE Guardrails Overview" width="600">
+</p>
 
 ## Overview
 
